@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for its4good-asz1qa on 2026-11-26T11:19:09Z
+# fly.toml app configuration file generated for its4good-t5fbjg on 2026-11-26T15:22:06Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'its4good-asz1qa'
-primary_region = 'syd'
+app = 'its4good-t5fbjg'
+primary_region = 'fra'
 
 [build]
 [env]
