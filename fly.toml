@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for its4good on 2026-11-26T10:51:42Z
+# fly.toml app configuration file generated for its4good on 2026-11-26T11:06:40Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
 app = 'its4good'
-primary_region = 'nrt'
+primary_region = 'ams'
 
 [build]
 [env]
